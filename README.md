@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Gustavo Rolon 👋
+### IT Specialist & AI Data Evaluator
 
-<!--
-**gustavorolonmartinez-maker/gustavorolonmartinez-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dedicated to optimizing Large Language Models (LLMs) through rigorous evaluation, RLHF methodologies, prompt refinement, and quality control.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Expertise & Core Focus
+- 🤖 **LLM Evaluation & RLHF:** Assessing model outputs for accuracy, tone, context, and safety.
+- 🎯 **Prompt Engineering:** Designing structured prompts and analyzing edge cases.
+- 🔍 **Fact-Checking & Hallucination Detection:** Technical verification and logical response grading.
+- 🧪 **Quality Assurance (QA):** Systems support, database validation, and data entry integrity.
+
+---
+
+### 🌐 Languages
+- **Spanish:** Native
+- **English:** Professional / Technical Proficiency
+
+---
+
+### 📫 Connect with me
+- **LinkedIn:** [Gustavo Ariel Rolon](https://www.linkedin.com/in/gustavo-ariel-rolon-0ba472439)
